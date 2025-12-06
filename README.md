@@ -1,6 +1,7 @@
 # CS2 Real-time Demo Radar Visualizer
 
 Визуализатор радара для демок CS2 в реальном времени с веб-интерфейсом.
+Туториал для чайников: https://youtu.be/Igw9nEZfTSI?si=NqK85oHACLox-UY8
 
 ## Форк
 
