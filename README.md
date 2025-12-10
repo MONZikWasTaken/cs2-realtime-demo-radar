@@ -1,4 +1,11 @@
-# CS2 Real-time Demo Radar Visualizer
+# CS2 Real-time Demo Radar Visualizer (Patched 09.12.2025)
+
+Как valve исправили проблему спустя 2 недели после публикации ошибки на reddit:
+```
+_record (cheat dontrecord release)
+record (cheat dontrecord release)
+```
+P.s Valve решили проблему не исправлением бага, а запретив комманду в соревновательных играх вовсе... умно... Теперь комманда требует sv_cheats 1
 
 Визуализатор радара для демок CS2 в реальном времени с веб-интерфейсом.
 
